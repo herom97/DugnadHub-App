@@ -1,0 +1,12 @@
+Hei! 
+
+Under er det laget en testbruker for dere som vil 
+ teste appen.
+
+E-post: ali@gmail.com   
+Passord: Test1234
+
+Inkluderer også en bonusbruker som har likt et innlegg:
+E-post: helen@gmail.com
+Passord: Test1234
+
